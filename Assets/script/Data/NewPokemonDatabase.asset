@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3627b52ec85a2494994cc540731aeb7e, type: 3}
+  m_Name: NewPokemonDatabase
+  m_EditorClassIdentifier: 
+  iconBulbizarre: {fileID: 21300000, guid: 233d6470ce02d1b4fa97930a84e94c67, type: 3}
+  iconHerbizarre: {fileID: 21300000, guid: f4141ca3e4dd65b42a3e142dbb7d4ecc, type: 3}
+  iconFlorizarre: {fileID: 21300000, guid: 93e29eec47bfec044aab8a4709e2f546, type: 3}
